@@ -1,0 +1,28 @@
+﻿body {
+	background-image: url("background.png");
+}
+
+#why {
+	font-size: 1.5em;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 10px;
+	background-color: white;
+	border: 2px black solid;
+	text-align: center;
+	margin-top: 1%;
+}
+
+#form {
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 10px;
+	background-color: white;
+	border: 2px black solid;
+	text-align: left;
+	margin-top: 1%
+}
+
+#center {
+	text-align: center;
+}

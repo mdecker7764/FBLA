@@ -1,0 +1,55 @@
+﻿#body {
+	background-color: #fff1cc;
+	height: 1000px;
+}
+
+#main {
+	color: black;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#header {
+	border: 2px black solid;
+	background-color: white;
+	border-radius: 30px;
+	color: darkgoldenrod;
+	text-align: center;
+	padding: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#name {
+	border-top: 2px blue solid;
+	border-bottom: 2px blue solid;
+	background-color: #f0efed;
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 2%;
+	margin-right: 10px;
+}
+
+#logo {
+	margin-left: -110px;
+	height: 100px;
+}
+
+#navbar {
+	font-size: 16px; 
+	padding: 14px 16px;
+	margin-left: 100px;
+	margin-top: -110px;
+	color: white;
+}
+
+#space {
+	margin-top: 2%;
+	text-align: left;
+	margin-left: 1%;
+}
+
+#left {
+	margin-right: 10%;
+	text-align: left;
+}
